@@ -1,0 +1,3 @@
+# run:
+#pip install openai spacy networkx sentence-transformers
+#python -m spacy download en_core_web_sm
